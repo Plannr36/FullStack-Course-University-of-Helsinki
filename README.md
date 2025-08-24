@@ -1,4 +1,9 @@
 # FullStack-Course-University-of-Helsinki
-```mermaid
-  info
+
+```
+  mermaid
+graph TD;
+  A-->B
+  A-->C
+  
 ```
