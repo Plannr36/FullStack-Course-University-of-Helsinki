@@ -1,3 +1,9 @@
 # This will be the README.md for part 0
 
 Creating a graph
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+```
